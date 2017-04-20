@@ -1,2 +1,2 @@
 
-题目连接：https://www.patest.cn/contests/gplt
+题目链接：https://www.patest.cn/contests/gplt
